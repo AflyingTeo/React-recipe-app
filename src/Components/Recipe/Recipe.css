@@ -1,0 +1,20 @@
+.recipe{
+    background-color: white;
+    border-radius: 12px;
+    margin: 12px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 55%
+}
+.recipe ol li {
+    text-align: left;
+}
+
+.recipe img{
+    border-radius: 50%;
+    width: 124px;
+    height: 124px;
+}
